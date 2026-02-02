@@ -10,4 +10,8 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
 
-DESCRIPTION(MIN 500 WORDS)
+##DESCRIPTION(MIN 500 WORDS)
+
+##OUTPUT
+
+<img width="1428" height="762" alt="Image" src="https://github.com/user-attachments/assets/1f483f97-232c-49ea-aaa3-89f1d0d9d09a" />
